@@ -3,7 +3,7 @@
 - 🌱 I’m currently learning ... coding C languages in Visual Studio & Unity C#...and how to play pickleball
 - 💞️ I’m looking to collaborate on ... games!
 - 📫 How to reach me ... katievosgien@gmail.com
-- 😄 Fun Fact: ... I play way too much COD and I'm not very good at it
+- 😄 Fun Fact: ... I play way too much COD and I'm still not very good at it
 - ⚡ Portfolio/Socials ... https://linktr.ee/katievosgien
 
 <!---
