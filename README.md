@@ -4,7 +4,7 @@
 - 💞️ I’m looking to collaborate on ... games!
 - 📫 How to reach me ... katievosgien@gmail.com
 - 😄 Fun Fact: ... I play way too much COD and I'm still not very good at it
-- ⚡ Current Projects: ... The World Under the Floorboard, Miss Montel and the Elfin Phantom, Wildest West (...Working title)
+- ⚡ Current Project: ... The World Under the Floorboard
 
 <!---
 katievosgien/katievosgien is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
