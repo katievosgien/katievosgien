@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @katievosgien
-- 👀 I’m interested in ... game/narrative design and writing
-- 🌱 I’m currently learning ... coding C languages in Visual Studio & Unity C#...and how to play pickleball
-- 💞️ I’m looking to collaborate on ... games!
+- 👀 I’m interested in ... full stack dev, machine learning & gen AI
+- 🌱 I’m currently learning ... The Odin Project full stack, Ada Build Python
+- 💞️ I’m looking to collaborate on ... development
 - 📫 How to reach me ... katievosgien@gmail.com
 - 😄 Fun Fact: ... I play way too much COD and I'm still not very good at it
 - ⚡ Current Project: ... The World Under the Floorboard
