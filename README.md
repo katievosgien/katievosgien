@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @katievosgien
+- 👋 Hi, I’m @katievosgien. I'm a student, writer, and mother of two
 - 👀 I’m interested in ... full stack dev, machine learning & gen AI
 - 🌱 I’m currently learning ... The Odin Project full stack, Ada Build Python
 - 💞️ I’m looking to collaborate on ... development
